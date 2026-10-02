@@ -1,0 +1,6 @@
+{
+  "name": "Geografiya O‘zbekiston — 6-sinf",
+  "description": "6-sinf o‘quvchilari uchun O‘zbekiston geografiyasi bo‘yicha interaktiv ta'lim platformasi. Darslar, testlar, interaktiv xarita va geografik lug‘at.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
